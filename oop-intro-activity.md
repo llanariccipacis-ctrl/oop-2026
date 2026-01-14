@@ -3,8 +3,8 @@ Mug
 
 ---
 # Properties
-Component
-Color
+- Component
+- Color
 
 ---
 # 2 Objects
